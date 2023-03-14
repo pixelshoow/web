@@ -5,7 +5,7 @@
 	box-sizing: border-box;
 }
 body {
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"; background-image: url("عکس-پروفایل-عکاسی-با-کیفیت-والپیپر-4k.jpg"); background-repeat: no-repeat; background-size: auto
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"; background-image: url("عکس-پروفایل-عکاسی-با-کیفیت-والپیپر-4k.jpg"); background-repeat: no-repeat; background-size: auto;background-color: gray
 }
 html {
 	font-size: 10px;
@@ -275,6 +275,7 @@ p {
 	max-width: 1500px;
 	margin: 0 auto;
 	padding: 100px 0;
+
 }
 #services .service-top {
 	max-width: 500px;
